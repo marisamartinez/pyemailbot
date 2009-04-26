@@ -18,9 +18,9 @@ from email.MIMEText import MIMEText
 ###
 # Change these to reflect your email settings
 ###
-pophost = 'pop.bizmail.yahoo.com'
-smtphost = 'smtp.bizmail.yahoo.com'
-username = 'bot@example.com'
+pophost = 'pop.server.com'
+smtphost = 'smtp.server.com'
+username = 'bot@server.com'
 password = 'secretpassword'
 mailfrom = "Python Bot <%s>" % (username)
 
