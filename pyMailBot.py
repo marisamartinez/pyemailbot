@@ -3,7 +3,9 @@
 #
 # Python Mail Bot
 # By Christopher Steffen
-#
+# (C) Copyright Christopher Steffen April 2009
+#    ALL RIGHTS RESERVED
+# 
 # The purpose of this bot is to perform various functions
 # in response to emails the bot receives. Only emails that
 # are from registered users (or are registrations) are
