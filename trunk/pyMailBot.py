@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#####################
+######################
 #
 # Python Mail Bot
 # By Christopher Steffen
@@ -12,7 +12,7 @@
 # allowed through, and they must match certain patterns.
 # All other emails are deleted unread.
 #
-#####################
+######################
 
 import sys, email, smtplib, poplib, time, socket, cPickle, os
 from email.MIMEText import MIMEText
