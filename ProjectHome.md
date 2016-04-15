@@ -1,0 +1,1 @@
+This Python bot is designed to use email as its primary method of communication, allowing it to communicate with all sorts of platforms all over the world while not requiring the user to be constantly, actively interacting with the bot.
